@@ -208,6 +208,7 @@ function create_config( )
       "stats",
       "time",
       "version",
+	  "rae",
       "weather",
       "xkcd",
       "youtube" },
