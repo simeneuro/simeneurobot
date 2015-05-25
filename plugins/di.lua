@@ -11,8 +11,8 @@ local function run(msg, matches)
 end
 
 return {
-  description = "El plugin mas sencillo!",
-  usage = "!di [lo que sea]: repite el mensaje",
+  description = "Simplest plugin ever!",
+  usage = "!di [whatever]: dies the msg",
   patterns = {
     "^!di (.+)$"
   }, 
